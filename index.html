@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>data stylingforms</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <img src="./images/logo.png" alt="logo of the pub" width="700rem" />
+    </header>
+    <main>
+      <section class="info">
+        <h1>The Best Craft Beer in Spain!</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
+          asperiores, dignissimos doloribus pariatur obcaecati beatae!
+        </p>
+      </section>
+      <section class="form">
+        <h1>Make a reservation</h1>
+        <p>Get your spot before someone else does!</p>
+        <form action="">
+          <div>
+            <label for="name">Your Name</label> <br />
+            <input
+              type="text"
+              name="namerequest"
+              id="name"
+              placeholder="John B. Goode"
+            />
+            <br />
+          </div>
+          <div>
+            <label for="email">Your Email</label><br />
+            <input
+              type="email"
+              name="emailrequest"
+              placeholder="JohnB.Goode@web.de"
+              id="email"
+            />
+            <br />
+          </div>
+          <div>
+            <label for="date">Reservation Time</label>
+            <input type="datetime-local" name="Reservationdate" id="date" />
+          </div>
+          <button type="submit"><em>Reserve Now!</em></button>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
