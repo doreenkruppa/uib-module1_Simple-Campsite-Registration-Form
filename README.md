@@ -1,11 +1,9 @@
-# Basic Data Exercises
+# Registration-form for a Campsite
 
-## Styling Forms
+## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-**Instructions**:
+### Basic Data Exercises - Styling Forms
 
-1.  Create a basic HTML page with all important elements in the existing `index.html`.
-2.  Look at the mockup image. Create a form and style it like the mockup.
-3.  Use the provided images in the `images` folder.
+Created a basic HTML page with a variety of different elements and a form styled like the mockup in the images-folder.
 
 ![mockup-image](/images/reference-image.png)
