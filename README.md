@@ -10,11 +10,11 @@ Created a basic HTML page with a variety of different elements and a form styled
 
 #### My desktop version:
 
-![my_desktop](./my_desktop_version.png)
+![my_desktop](./images/my_desktop_version.png)
 
 #### My mobile version:
 
-![my_mobile](./my_mobile_version.png)
+![my_mobile](./images/my_mobile_version.png)
 
 #### Mockup
 
