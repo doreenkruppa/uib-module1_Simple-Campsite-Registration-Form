@@ -4,6 +4,18 @@
 
 ### Basic Data Exercises - Styling Forms
 
+created at 15.09.22;
+
 Created a basic HTML page with a variety of different elements and a form styled like the mockup in the images-folder.
 
-15.09.22
+#### My desktop version:
+
+![my_desktop](./my_desktop_version.png)
+
+#### My mobile version:
+
+![my_mobile](./my_mobile_version.png)
+
+#### Mockup
+
+![mockup](./images/reference-image.png)
